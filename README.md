@@ -4,17 +4,17 @@ Create a config file called config.json.  Each node is a seperate Email account,
 {
   "test": {
     "host": "<EMAIL_ADDRESS",
-    "login": "<USERNAME>",
-    "password": "<APPS KEY>"
+    "login": "<GMAIL_USERNAME>",
+    "password": "<APPS_KEY>"
   },
   "android": {
-    "host": "android.alpha@guardian.co.uk",
-    "login": "android.alpha@guardian.co.uk",
-    "password": "yijveeroobmqmosp"
+    "host": "<EMAIL_ADDRESS",
+    "login": "<GMAIL_USERNAME>",
+    "password": "<APPS_KEY>"
   },
   "ios": {
-    "host": "ios.beta@guardian.co.uk",
-    "login": "ios.beta@guardian.co.uk",
-    "password": "xxx"
+    "host": "<EMAIL_ADDRESS",
+    "login": "<GMAIL_USERNAME>",
+    "password": "<APPS_KEY>"
   }
 }
