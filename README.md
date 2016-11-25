@@ -1,4 +1,4 @@
-This is a script to pick out the Top X number of users email address from a GMail account.
+<h1>This is a script to pick out the Top X number of users email address from a GMail account.</h1>
 
 Create a config file called config.json.  Each node is a seperate Email account, one for a test one for 
 {
